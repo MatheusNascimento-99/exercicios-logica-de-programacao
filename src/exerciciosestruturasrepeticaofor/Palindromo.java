@@ -6,6 +6,8 @@ public class Palindromo {
 
     public static void main(String[] args) {
 
+        /*Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços.*/
+
         Scanner sc = new Scanner(System.in);
 
         System.out.println("=-=-=-=-=-=-=-=-=-=-=-=");

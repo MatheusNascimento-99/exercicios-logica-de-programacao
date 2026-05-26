@@ -5,6 +5,9 @@ import java.util.Scanner;
 public class ProgressaoAritmetica {
     public static void main(String[] args) {
 
+        /*Desenvolva um programa que leia o primeiro termo e a razão de uma PA. No final, mostre os 10 primeiros termos dessa progressão.*/
+
+
         Scanner sc = new Scanner(System.in);
 
         System.out.println("GERADOR DE PA");
